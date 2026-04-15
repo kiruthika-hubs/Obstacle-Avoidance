@@ -56,7 +56,7 @@ The fuzzy outputs are converted into crisp control signals such as:
 ---
 
 ## 📊 Output
-![Output](assets/output.png)
+![Output](assests/output1.png) ![Output](assests/output2.png)
 
 ---
 
